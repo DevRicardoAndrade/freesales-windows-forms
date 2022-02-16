@@ -1,0 +1,19 @@
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net48\Free Sales.csproj.AssemblyReference.cache
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net48\Free Sales.csproj.SuggestedBindingRedirects.cache
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net48\FreeSales.Forms.Cargos.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net48\FreeSales.Forms.DadosVenda.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net48\FreeSales.Forms.DetalheVenda.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net48\FreeSales.Forms.Login.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net48\FreeSales.Forms.Principal.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net48\FreeSales.Forms.Produtos.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net48\FreeSales.Forms.Relatorios.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net48\FreeSales.Forms.TiposProduto.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net48\FreeSales.Forms.Usuarios.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net48\FreeSales.Forms.Vendas.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net48\FreeSales.Properties.Resources.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net48\FreeSales.Forms.Vendas.pt-BR.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net48\Free Sales.csproj.GenerateResource.cache
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net48\Free Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net48\Free Sales.AssemblyInfoInputs.cache
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net48\Free Sales.AssemblyInfo.cs
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net48\Free Sales.csproj.CoreCompileInputs.cache

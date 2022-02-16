@@ -1,0 +1,48 @@
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.exe
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.deps.json
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.runtimeconfig.json
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.runtimeconfig.dev.json
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.dll
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\bin\Debug\net5.0-windows\ref\Free Sales.dll
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.pdb
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Cargos.resources
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Principal.resources
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Produtos.resources
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Relatorios.resources
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Usuarios.resources
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Vendas.resources
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.csproj.GenerateResource.cache
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.AssemblyInfoInputs.cache
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.AssemblyInfo.cs
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.dll
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\ref\Free Sales.dll
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.pdb
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.genruntimeconfig.cache
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.csprojAssemblyReference.cache
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.exe
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.deps.json
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.runtimeconfig.json
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.runtimeconfig.dev.json
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.dll
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\bin\Debug\net5.0-windows\ref\Free Sales.dll
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.pdb
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.csprojAssemblyReference.cache
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Cargos.resources
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Principal.resources
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Produtos.resources
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Relatorios.resources
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Usuarios.resources
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Vendas.resources
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.csproj.GenerateResource.cache
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.AssemblyInfoInputs.cache
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.AssemblyInfo.cs
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.dll
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\ref\Free Sales.dll
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.pdb
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.genruntimeconfig.cache
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Login.resources
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.Properties.Resources.resources

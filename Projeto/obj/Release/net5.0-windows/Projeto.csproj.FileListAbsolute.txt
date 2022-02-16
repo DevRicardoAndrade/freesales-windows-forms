@@ -1,0 +1,7 @@
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\obj\Release\net5.0-windows\Projeto.Cargos.resources
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\obj\Release\net5.0-windows\Projeto.Principal.resources
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\obj\Release\net5.0-windows\Projeto.Produtos.resources
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\obj\Release\net5.0-windows\Projeto.Relatorios.resources
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\obj\Release\net5.0-windows\Projeto.Usuarios.resources
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\obj\Release\net5.0-windows\Projeto.Vendas.resources
+C:\Users\Rick\Documents\Projeto\Projeto\Projeto\obj\Release\net5.0-windows\Projeto.csproj.GenerateResource.cache

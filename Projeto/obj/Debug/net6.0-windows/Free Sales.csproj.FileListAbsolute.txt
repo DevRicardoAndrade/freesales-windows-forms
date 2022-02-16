@@ -1,0 +1,135 @@
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\FreeSales.exe
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\FreeSales.deps.json
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\FreeSales.runtimeconfig.json
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\FreeSales.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\ref\FreeSales.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\FreeSales.pdb
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\pt-BR\FreeSales.resources.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Cargos.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Forms.DadosVenda.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Forms.DetalheVenda.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Login.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Principal.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Produtos.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Relatorios.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.TiposProduto.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Usuarios.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Vendas.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\FreeSales.Properties.Resources.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Vendas.pt-BR.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.csproj.GenerateResource.cache
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.AssemblyInfoInputs.cache
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.AssemblyInfo.cs
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.csproj.CoreCompileInputs.cache
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\pt-BR\FreeSales.resources.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.csproj.CopyComplete
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\FreeSales.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\ref\FreeSales.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\FreeSales.pdb
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.genruntimeconfig.cache
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.csproj.AssemblyReference.cache
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\FreeSales.exe
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\FreeSales.deps.json
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\FreeSales.runtimeconfig.json
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\FreeSales.dll
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\ref\FreeSales.dll
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\FreeSales.pdb
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\pt-BR\FreeSales.resources.dll
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.csproj.AssemblyReference.cache
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Cargos.resources
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Forms.DadosVenda.resources
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Forms.DetalheVenda.resources
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Login.resources
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Principal.resources
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Produtos.resources
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Relatorios.resources
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.TiposProduto.resources
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Usuarios.resources
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Vendas.resources
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\FreeSales.Properties.Resources.resources
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Vendas.pt-BR.resources
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.csproj.GenerateResource.cache
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.AssemblyInfoInputs.cache
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.AssemblyInfo.cs
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.csproj.CoreCompileInputs.cache
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\pt-BR\FreeSales.resources.dll
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.csproj.CopyComplete
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\FreeSales.dll
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\ref\FreeSales.dll
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\FreeSales.pdb
+C:\Users\Ana Beatriz\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.genruntimeconfig.cache
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\bin\Debug\net6.0-windows\FreeSales.exe
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\bin\Debug\net6.0-windows\FreeSales.deps.json
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\bin\Debug\net6.0-windows\FreeSales.runtimeconfig.json
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\bin\Debug\net6.0-windows\FreeSales.dll
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\bin\Debug\net6.0-windows\ref\FreeSales.dll
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\bin\Debug\net6.0-windows\FreeSales.pdb
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\bin\Debug\net6.0-windows\pt-BR\FreeSales.resources.dll
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.csproj.AssemblyReference.cache
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Cargos.resources
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Forms.DadosVenda.resources
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Forms.DetalheVenda.resources
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Login.resources
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Principal.resources
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Produtos.resources
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Relatorios.resources
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.TiposProduto.resources
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Usuarios.resources
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Vendas.resources
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\FreeSales.Properties.Resources.resources
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\Projeto.Vendas.pt-BR.resources
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.csproj.GenerateResource.cache
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.AssemblyInfoInputs.cache
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.AssemblyInfo.cs
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.csproj.CoreCompileInputs.cache
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\pt-BR\FreeSales.resources.dll
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.csproj.CopyComplete
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\FreeSales.dll
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\ref\FreeSales.dll
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\FreeSales.pdb
+C:\Users\errij\Desktop\Projetos\C#\FreeSales\Projeto\obj\Debug\net6.0-windows\Free Sales.genruntimeconfig.cache

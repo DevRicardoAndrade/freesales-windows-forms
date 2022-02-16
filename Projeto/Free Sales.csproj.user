@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Controllers\txtNumero.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controllers\txtValor.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\Cargos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DadosVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DetalheVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Produtos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Relatorios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TiposProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Vendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

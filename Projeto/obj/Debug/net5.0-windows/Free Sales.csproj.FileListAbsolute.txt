@@ -1,0 +1,747 @@
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.exe
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.deps.json
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.runtimeconfig.json
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.runtimeconfig.dev.json
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.dll
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\bin\Debug\net5.0-windows\ref\Free Sales.dll
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.pdb
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.csprojAssemblyReference.cache
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Cargos.resources
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Login.resources
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Principal.resources
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Produtos.resources
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Relatorios.resources
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Usuarios.resources
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Vendas.resources
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.GenerateResource.cache
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfoInputs.cache
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfo.cs
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CoreCompileInputs.cache
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.dll
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\ref\Free Sales.dll
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.pdb
+C:\Users\Rick\Desktop\Projeto\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.genruntimeconfig.cache
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.exe
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.deps.json
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.runtimeconfig.json
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.runtimeconfig.dev.json
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.dll
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\ref\Free Sales.dll
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\Free Sales.pdb
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.AssemblyReference.cache
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Cargos.resources
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Login.resources
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Principal.resources
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Produtos.resources
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Relatorios.resources
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Usuarios.resources
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Vendas.resources
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.GenerateResource.cache
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfoInputs.cache
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfo.cs
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CoreCompileInputs.cache
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.dll
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\ref\Free Sales.dll
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.pdb
+C:\Users\Rick\Documents\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.genruntimeconfig.cache
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.AssemblyReference.cache
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Cargos.resources
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Login.resources
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Principal.resources
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Produtos.resources
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Relatorios.resources
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Usuarios.resources
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Projeto.Vendas.resources
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.GenerateResource.cache
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfoInputs.cache
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfo.cs
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CoreCompileInputs.cache
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.genruntimeconfig.cache
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CopyComplete
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\FreeSales.exe
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\FreeSales.deps.json
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.json
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.dev.json
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\FreeSales.dll
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\bin\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\FreeSales.Properties.Resources.resources
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\FreeSales.dll
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\Rick\Desktop\Projetos\Projeto\Projeto\obj\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.AssemblyReference.cache
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\obj\Debug\net5.0-windows\Projeto.Cargos.resources
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\obj\Debug\net5.0-windows\Projeto.Login.resources
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\obj\Debug\net5.0-windows\Projeto.Principal.resources
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\obj\Debug\net5.0-windows\Projeto.Produtos.resources
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\obj\Debug\net5.0-windows\FreeSales.Properties.Resources.resources
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\obj\Debug\net5.0-windows\Projeto.Relatorios.resources
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\obj\Debug\net5.0-windows\Projeto.Usuarios.resources
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\obj\Debug\net5.0-windows\Projeto.Vendas.resources
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.GenerateResource.cache
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\obj\Debug\net5.0-windows\Free Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfoInputs.cache
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfo.cs
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CoreCompileInputs.cache
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\obj\Debug\net5.0-windows\FreeSales.dll
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\obj\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\obj\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\bin\Debug\net5.0-windows\FreeSales.exe
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\bin\Debug\net5.0-windows\FreeSales.deps.json
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.json
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.dev.json
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\bin\Debug\net5.0-windows\FreeSales.dll
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\bin\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\bin\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CopyComplete
+C:\Users\Rick\Downloads\FreeSales-master\Projeto\obj\Debug\net5.0-windows\Free Sales.genruntimeconfig.cache
+C:\Users\Rick\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.exe
+C:\Users\Rick\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.deps.json
+C:\Users\Rick\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.json
+C:\Users\Rick\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.dev.json
+C:\Users\Rick\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.dll
+C:\Users\Rick\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\Rick\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\Rick\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Rick\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\Rick\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\Rick\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Rick\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Rick\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Rick\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Rick\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Rick\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Rick\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Rick\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Rick\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Rick\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rick\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rick\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.AssemblyReference.cache
+C:\Users\Rick\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Cargos.resources
+C:\Users\Rick\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Login.resources
+C:\Users\Rick\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Principal.resources
+C:\Users\Rick\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Produtos.resources
+C:\Users\Rick\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.Properties.Resources.resources
+C:\Users\Rick\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Relatorios.resources
+C:\Users\Rick\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Usuarios.resources
+C:\Users\Rick\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Vendas.resources
+C:\Users\Rick\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.GenerateResource.cache
+C:\Users\Rick\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rick\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfoInputs.cache
+C:\Users\Rick\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfo.cs
+C:\Users\Rick\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CoreCompileInputs.cache
+C:\Users\Rick\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CopyComplete
+C:\Users\Rick\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.dll
+C:\Users\Rick\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\Rick\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\Rick\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.genruntimeconfig.cache
+C:\Users\randrade\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.exe
+C:\Users\randrade\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.deps.json
+C:\Users\randrade\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.json
+C:\Users\randrade\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.dev.json
+C:\Users\randrade\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.dll
+C:\Users\randrade\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\randrade\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\randrade\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\randrade\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\randrade\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\randrade\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\randrade\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\randrade\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\randrade\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\randrade\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\randrade\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\randrade\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\randrade\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\randrade\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\randrade\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\randrade\Desktop\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\randrade\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.AssemblyReference.cache
+C:\Users\randrade\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Cargos.resources
+C:\Users\randrade\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Login.resources
+C:\Users\randrade\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Principal.resources
+C:\Users\randrade\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Produtos.resources
+C:\Users\randrade\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.Properties.Resources.resources
+C:\Users\randrade\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Relatorios.resources
+C:\Users\randrade\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Usuarios.resources
+C:\Users\randrade\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Vendas.resources
+C:\Users\randrade\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.GenerateResource.cache
+C:\Users\randrade\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randrade\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfoInputs.cache
+C:\Users\randrade\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfo.cs
+C:\Users\randrade\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CoreCompileInputs.cache
+C:\Users\randrade\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CopyComplete
+C:\Users\randrade\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.dll
+C:\Users\randrade\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\randrade\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\randrade\Desktop\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.genruntimeconfig.cache
+D:\Outros arquivos\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.exe
+D:\Outros arquivos\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.deps.json
+D:\Outros arquivos\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.json
+D:\Outros arquivos\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.dev.json
+D:\Outros arquivos\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.dll
+D:\Outros arquivos\FreeSales\Projeto\bin\Debug\net5.0-windows\ref\FreeSales.dll
+D:\Outros arquivos\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.pdb
+D:\Outros arquivos\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+D:\Outros arquivos\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.dll
+D:\Outros arquivos\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\Outros arquivos\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Outros arquivos\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\Outros arquivos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Outros arquivos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Outros arquivos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Outros arquivos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Outros arquivos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Outros arquivos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Outros arquivos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Outros arquivos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Outros arquivos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Outros arquivos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.AssemblyReference.cache
+D:\Outros arquivos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Cargos.resources
+D:\Outros arquivos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Login.resources
+D:\Outros arquivos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Principal.resources
+D:\Outros arquivos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Produtos.resources
+D:\Outros arquivos\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.Properties.Resources.resources
+D:\Outros arquivos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Relatorios.resources
+D:\Outros arquivos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Usuarios.resources
+D:\Outros arquivos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Vendas.resources
+D:\Outros arquivos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.GenerateResource.cache
+D:\Outros arquivos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.GeneratedMSBuildEditorConfig.editorconfig
+D:\Outros arquivos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfoInputs.cache
+D:\Outros arquivos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfo.cs
+D:\Outros arquivos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CoreCompileInputs.cache
+D:\Outros arquivos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CopyComplete
+D:\Outros arquivos\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.dll
+D:\Outros arquivos\FreeSales\Projeto\obj\Debug\net5.0-windows\ref\FreeSales.dll
+D:\Outros arquivos\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.pdb
+D:\Outros arquivos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.genruntimeconfig.cache
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.exe
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.deps.json
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.json
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.dev.json
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.dll
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Cargos.resources
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Login.resources
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Principal.resources
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Produtos.resources
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.Properties.Resources.resources
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Relatorios.resources
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Usuarios.resources
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Vendas.resources
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.GenerateResource.cache
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfoInputs.cache
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfo.cs
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CoreCompileInputs.cache
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.dll
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.genruntimeconfig.cache
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.AssemblyReference.cache
+C:\Users\errij\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.TiposProduto.resources
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.exe
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.deps.json
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.json
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.dev.json
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.AssemblyReference.cache
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Cargos.resources
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Login.resources
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Principal.resources
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Produtos.resources
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Relatorios.resources
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.TiposProduto.resources
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Usuarios.resources
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Vendas.resources
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.Properties.Resources.resources
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.GenerateResource.cache
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfoInputs.cache
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfo.cs
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CoreCompileInputs.cache
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CopyComplete
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\randrade\Desktop\Projeto\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.genruntimeconfig.cache
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.exe
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.deps.json
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.json
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.dev.json
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.AssemblyReference.cache
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Cargos.resources
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Login.resources
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Principal.resources
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Produtos.resources
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Relatorios.resources
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.TiposProduto.resources
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Usuarios.resources
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Vendas.resources
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.Properties.Resources.resources
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.GenerateResource.cache
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfoInputs.cache
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfo.cs
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CoreCompileInputs.cache
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\randrade\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.genruntimeconfig.cache
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.exe
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.deps.json
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.json
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.dev.json
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.Design.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.AssemblyReference.cache
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Cargos.resources
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Login.resources
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Principal.resources
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Produtos.resources
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Relatorios.resources
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.TiposProduto.resources
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Usuarios.resources
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Vendas.resources
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.Properties.Resources.resources
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.GenerateResource.cache
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfoInputs.cache
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfo.cs
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CoreCompileInputs.cache
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.genruntimeconfig.cache
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Forms.DadosVenda.resources
+C:\Users\errij\Desktop\Projeto 2.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Forms.DetalheVenda.resources
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.exe
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.deps.json
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.json
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.dev.json
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.dll
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.AssemblyReference.cache
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Cargos.resources
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Forms.DadosVenda.resources
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Forms.DetalheVenda.resources
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Login.resources
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Principal.resources
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Produtos.resources
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Relatorios.resources
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.TiposProduto.resources
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Usuarios.resources
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Vendas.resources
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.Properties.Resources.resources
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.GenerateResource.cache
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfoInputs.cache
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfo.cs
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CoreCompileInputs.cache
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.dll
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\randrade\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.genruntimeconfig.cache
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.AssemblyReference.cache
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Cargos.resources
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Forms.DadosVenda.resources
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Forms.DetalheVenda.resources
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Login.resources
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Principal.resources
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Produtos.resources
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Relatorios.resources
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.TiposProduto.resources
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Usuarios.resources
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Vendas.resources
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.Properties.Resources.resources
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.GenerateResource.cache
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfoInputs.cache
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfo.cs
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CoreCompileInputs.cache
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.dll
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.exe
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.deps.json
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.json
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.dev.json
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.dll
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.genruntimeconfig.cache
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.exe
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.deps.json
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.json
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.dev.json
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.dll
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.AssemblyReference.cache
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Cargos.resources
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Forms.DadosVenda.resources
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Forms.DetalheVenda.resources
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Login.resources
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Principal.resources
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Produtos.resources
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Relatorios.resources
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.TiposProduto.resources
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Usuarios.resources
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Vendas.resources
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.Properties.Resources.resources
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.GenerateResource.cache
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfoInputs.cache
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfo.cs
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CoreCompileInputs.cache
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CopyComplete
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.dll
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\Ana Beatriz\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.genruntimeconfig.cache
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CopyComplete
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\bin\Debug\net5.0-windows\pt-BR\FreeSales.resources.dll
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Vendas.pt-BR.resources
+C:\Users\errij\Desktop\Projeto 3.0\FreeSales\Projeto\obj\Debug\net5.0-windows\pt-BR\FreeSales.resources.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.exe
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.deps.json
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.json
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.dev.json
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\pt-BR\FreeSales.resources.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Cargos.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Forms.DadosVenda.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Forms.DetalheVenda.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Login.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Principal.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Produtos.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Relatorios.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.TiposProduto.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Usuarios.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Vendas.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.Properties.Resources.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Vendas.pt-BR.resources
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.GenerateResource.cache
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfoInputs.cache
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfo.cs
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CoreCompileInputs.cache
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\pt-BR\FreeSales.resources.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CopyComplete
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.genruntimeconfig.cache
+C:\Users\errij\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.AssemblyReference.cache
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.exe
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.deps.json
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.json
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.runtimeconfig.dev.json
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.dll
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\pt-BR\FreeSales.resources.dll
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.AssemblyReference.cache
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Cargos.resources
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Forms.DadosVenda.resources
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Forms.DetalheVenda.resources
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Login.resources
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Principal.resources
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Produtos.resources
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Relatorios.resources
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.TiposProduto.resources
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Usuarios.resources
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Vendas.resources
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.Properties.Resources.resources
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Projeto.Vendas.pt-BR.resources
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.GenerateResource.cache
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfoInputs.cache
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.AssemblyInfo.cs
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CoreCompileInputs.cache
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\pt-BR\FreeSales.resources.dll
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.csproj.CopyComplete
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.dll
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\ref\FreeSales.dll
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\FreeSales.pdb
+C:\Users\randrade\Desktop\Projetos\FreeSales\Projeto\obj\Debug\net5.0-windows\Free Sales.genruntimeconfig.cache
